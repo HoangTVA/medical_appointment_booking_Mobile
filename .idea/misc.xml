@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_appointment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_doctor.xml" value="0.20244565217391305" />
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_patient_appointment.xml" value="0.1" />
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_patient_appointment_detail.xml" value="0.2807971014492754" />
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_patient_create_appointment.xml" value="0.1" />
+        <entry key="..\:/Demo/medical_appointment_booking_Mobile/app/src/main/res/layout/doctor_item.xml" value="0.30932971014492755" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_appointment.xml" value="0.25" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_appointment_detail.xml" value="0.18541666666666667" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_create_doctor.xml" value="0.33" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_doctor.xml" value="0.18541666666666667" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_doctor_detail.xml" value="0.26510416666666664" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_admin_page.xml" value="0.26510416666666664" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/appointment_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/FPT/Spring_2022/phucts123456/medical_appointment_booking_Mobile/app/src/main/res/layout/doctor_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
